@@ -1,0 +1,14 @@
+C:\Users\Irek\source\repos\aplikacja5\bin\Debug\net8.0\aplikacja5.exe
+C:\Users\Irek\source\repos\aplikacja5\bin\Debug\net8.0\aplikacja5.deps.json
+C:\Users\Irek\source\repos\aplikacja5\bin\Debug\net8.0\aplikacja5.runtimeconfig.json
+C:\Users\Irek\source\repos\aplikacja5\bin\Debug\net8.0\aplikacja5.dll
+C:\Users\Irek\source\repos\aplikacja5\bin\Debug\net8.0\aplikacja5.pdb
+C:\Users\Irek\source\repos\aplikacja5\obj\Debug\net8.0\aplikacja5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irek\source\repos\aplikacja5\obj\Debug\net8.0\aplikacja5.AssemblyInfoInputs.cache
+C:\Users\Irek\source\repos\aplikacja5\obj\Debug\net8.0\aplikacja5.AssemblyInfo.cs
+C:\Users\Irek\source\repos\aplikacja5\obj\Debug\net8.0\aplikacja5.csproj.CoreCompileInputs.cache
+C:\Users\Irek\source\repos\aplikacja5\obj\Debug\net8.0\aplikacja5.dll
+C:\Users\Irek\source\repos\aplikacja5\obj\Debug\net8.0\refint\aplikacja5.dll
+C:\Users\Irek\source\repos\aplikacja5\obj\Debug\net8.0\aplikacja5.pdb
+C:\Users\Irek\source\repos\aplikacja5\obj\Debug\net8.0\aplikacja5.genruntimeconfig.cache
+C:\Users\Irek\source\repos\aplikacja5\obj\Debug\net8.0\ref\aplikacja5.dll
