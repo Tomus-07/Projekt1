@@ -1,0 +1,14 @@
+C:\Users\Irek\source\repos\Aplikacja4\bin\Debug\net8.0\Aplikacja4.exe
+C:\Users\Irek\source\repos\Aplikacja4\bin\Debug\net8.0\Aplikacja4.deps.json
+C:\Users\Irek\source\repos\Aplikacja4\bin\Debug\net8.0\Aplikacja4.runtimeconfig.json
+C:\Users\Irek\source\repos\Aplikacja4\bin\Debug\net8.0\Aplikacja4.dll
+C:\Users\Irek\source\repos\Aplikacja4\bin\Debug\net8.0\Aplikacja4.pdb
+C:\Users\Irek\source\repos\Aplikacja4\obj\Debug\net8.0\Aplikacja4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irek\source\repos\Aplikacja4\obj\Debug\net8.0\Aplikacja4.AssemblyInfoInputs.cache
+C:\Users\Irek\source\repos\Aplikacja4\obj\Debug\net8.0\Aplikacja4.AssemblyInfo.cs
+C:\Users\Irek\source\repos\Aplikacja4\obj\Debug\net8.0\Aplikacja4.csproj.CoreCompileInputs.cache
+C:\Users\Irek\source\repos\Aplikacja4\obj\Debug\net8.0\Aplikacja4.dll
+C:\Users\Irek\source\repos\Aplikacja4\obj\Debug\net8.0\refint\Aplikacja4.dll
+C:\Users\Irek\source\repos\Aplikacja4\obj\Debug\net8.0\Aplikacja4.pdb
+C:\Users\Irek\source\repos\Aplikacja4\obj\Debug\net8.0\Aplikacja4.genruntimeconfig.cache
+C:\Users\Irek\source\repos\Aplikacja4\obj\Debug\net8.0\ref\Aplikacja4.dll
