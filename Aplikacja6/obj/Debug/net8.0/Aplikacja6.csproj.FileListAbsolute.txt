@@ -1,0 +1,14 @@
+C:\Users\Irek\source\repos\Aplikacja6\bin\Debug\net8.0\Aplikacja6.exe
+C:\Users\Irek\source\repos\Aplikacja6\bin\Debug\net8.0\Aplikacja6.deps.json
+C:\Users\Irek\source\repos\Aplikacja6\bin\Debug\net8.0\Aplikacja6.runtimeconfig.json
+C:\Users\Irek\source\repos\Aplikacja6\bin\Debug\net8.0\Aplikacja6.dll
+C:\Users\Irek\source\repos\Aplikacja6\bin\Debug\net8.0\Aplikacja6.pdb
+C:\Users\Irek\source\repos\Aplikacja6\obj\Debug\net8.0\Aplikacja6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irek\source\repos\Aplikacja6\obj\Debug\net8.0\Aplikacja6.AssemblyInfoInputs.cache
+C:\Users\Irek\source\repos\Aplikacja6\obj\Debug\net8.0\Aplikacja6.AssemblyInfo.cs
+C:\Users\Irek\source\repos\Aplikacja6\obj\Debug\net8.0\Aplikacja6.csproj.CoreCompileInputs.cache
+C:\Users\Irek\source\repos\Aplikacja6\obj\Debug\net8.0\Aplikacja6.dll
+C:\Users\Irek\source\repos\Aplikacja6\obj\Debug\net8.0\refint\Aplikacja6.dll
+C:\Users\Irek\source\repos\Aplikacja6\obj\Debug\net8.0\Aplikacja6.pdb
+C:\Users\Irek\source\repos\Aplikacja6\obj\Debug\net8.0\Aplikacja6.genruntimeconfig.cache
+C:\Users\Irek\source\repos\Aplikacja6\obj\Debug\net8.0\ref\Aplikacja6.dll
